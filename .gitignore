@@ -3,9 +3,13 @@
 *.exe
 *.sh
 *.ini
+*.spec
 
 # Ignore specific folders
 __pycache__/
+build/
+dist/
+Creations/
 
 # Ignore specific files
 UI_Preview_Edited.svg
