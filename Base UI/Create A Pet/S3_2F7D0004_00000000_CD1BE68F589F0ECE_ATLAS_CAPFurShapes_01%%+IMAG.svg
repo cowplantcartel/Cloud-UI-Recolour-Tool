@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   sodipodi:docname="S3_2F7D0004_00000000_CD1BE68F589F0ECE_ATLAS_CAPFurShapes_01%%+IMAG.svg"
+   inkscape:export-filename="S3_2F7D0004_00000000_CD1BE68F589F0ECE_ATLAS_CAPFurShapes_01%%+IMAG.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter6"
+       x="-0.055182552"
+       y="-0.05587406"
+       width="1.12646"
+       height="1.1280447">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.305882"
+         flood-color="rgb(0,0,0)"
+         id="feFlood5" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="1.000000"
+         id="feGaussianBlur5" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.700000"
+         dy="0.700000"
+         id="feOffset5" />
+      <feComposite
+         result="comp1"
+         operator="out"
+         in="flood"
+         in2="offset"
+         id="feComposite5" />
+      <feComposite
+         result="comp2"
+         operator="atop"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite6" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="13.136718"
+     inkscape:cx="19.030628"
+     inkscape:cy="37.985134"
+     inkscape:window-width="1718"
+     inkscape:window-height="1360"
+     inkscape:window-x="1713"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="64"
+       height="64"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACOElEQVR4nO2avW7aUBSAjy/UJYXq&#10;mvxUjbKklbLkATp6rpQn6O4OyeCtlfIEkdohkocyxHufIFJnj32ALJHaLIiGKMFXhYQ4l3szxENr&#10;tYDDNQfB+TZkc/j8SRgkH0trDfOMZVlDj7MpecwsCx+gPOygF0RrALALAG8B4A0AlKYh9QcDAPgO&#10;AN8AoBH67oXpD7D+dw/wguhDqVQ6qHMe16q13rOlpf6o75NptNZwfXNT6fa61Y4QzmAw2A9993Oe&#10;GaOc/xnAC6IvDufv1pZXOrZt3+XTLoYkSZ5cXF3WYyG+hr67N+77cgfwguiTw/n7jZfr7cepFkvz&#10;V+tFLMRR6Lsfxzk/VwAviDbK5fLZ1qvXZ4wxNZlqMSil2OnPH5tSys3Qd5ujzs/7M7hb5zye1YsH&#10;AGCMqTrnMTzcnCefl3m987xW65kYXCSp446JWdkA25WnlcTE4CJJHbdNzMoGsC3Lmvn/xqmjbWLW&#10;wv8TpADYAthQAGwBbCgAtgA2FABbABsKgC2ADQXAFsCGAmALYEMBsAWwoQDYAthQAGwBbCgAtgA2&#10;FABbABsKgC2ATTZAorWe7h7MI0gdjTzEzQY46d/2jTx0LJLU8cTErGyA49/dbtXE4CJJHY9NzMoG&#10;aHSEcJRSM3tvUEqxjhAOADRMzPvrQkPfbUopD1vt81UTw4ug1T5flVIejrMfNA60JkeLkkO2xedh&#10;VXaiAPMArcuPgAJgC2BDAbAFsKEA2ALYLHwAgiAIgiAWl3uPPdZmmtl/fAAAAABJRU5ErkJggg==&#10;"
+       id="image1"
+       style="display:none" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke-width:1.01261;filter:url(#filter6)"
+       id="rect1-7"
+       width="43.492008"
+       height="42.953743"
+       x="3.3414178"
+       y="3.4449048"
+       ry="6.9974771" />
+  </g>
+</svg>

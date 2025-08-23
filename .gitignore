@@ -1,0 +1,14 @@
+# Ignore file types
+*.xlsx
+*.exe
+*.sh
+*.ini
+
+# Ignore specific folders
+__pycache__/
+
+# Ignore specific files
+UI_Preview_Edited.svg
+UI_Preview.png
+console_log.txt
+inkscape_path.txt

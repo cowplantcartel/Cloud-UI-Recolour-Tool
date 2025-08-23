@@ -1,0 +1,1 @@
+By default Cloud UI replaces the Sims 3 seasons and moon phase icons with their Sims 4 equivalents, this patch reverts them back to the Sims 3 versions. Place this patch in your Overrides folder.

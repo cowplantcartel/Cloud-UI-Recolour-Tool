@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="S3_2F7D0004_00000000_7718E8A9858987EC_sign_cancer_sm%%+IMAG.svg"
+   inkscape:export-filename="..\Finals\S3_2F7D0004_00000000_7718E8A9858987EC_sign_cancer_sm%%+IMAG.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Colorize"
+       id="filter2"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="4.40729"
+         result="composite1"
+         id="feComposite1" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,128,178)"
+         result="flood1"
+         id="feFlood1" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="normal"
+         result="blend1"
+         id="feBlend1" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend2" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix2" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         k2="1"
+         result="composite2"
+         id="feComposite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Duochrome"
+       id="filter7"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix3" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood1"
+         id="feFlood3" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite3" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood2"
+         id="feFlood4" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite4" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite5" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix5" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite6" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend6" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite7" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="36.46875"
+     inkscape:cx="16.01371"
+     inkscape:cy="16"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="32"
+       height="32"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAAEEfUpiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ&#10;bWFnZVJlYWR5ccllPAAAAttJREFUeNpi/P//PwMyYILSMNEGFiTJ/8gqYOADQAAxYjNjPRA7APF+&#10;sDagioD/CPAepgWmjxEggEAqYPg9EhuEE4BYAeaMfiAWQNIJA4HIrkCXBAFBZHcngu1E4AtAbAAQ&#10;QBj+QAdMeIxHCZoPIOOgDoWBQhAB8oUCEG8A4vPo4QjE+iD/zv+PGyQwMeAH82GhZoBF936QOHLQ&#10;/kdinwdiBxAbIIAY0MJfAYgbgFgATRyGYTF7HyaGLOkAcziWiIXh+1D8H2oYAy4n4gqZ90iuA6tH&#10;Tl+MOGIMFwCpP8+ExCFFMwM0yRvCDDAgUfMDWLJhgkcoInkwQhWAku8CqPgBkG1Irm2EpT+CyZkQ&#10;AAggig1AT6sNQJyAR/15aGAjwgwtecITCB78HznNILsAZqo9tGRiwJWLUUVQTT4Pxejl1Hqk5A7L&#10;DwLISdkBmv1gGeo9jqQ8H6qmH4gLsOUFfKUDOkDJjQLQXEgsmA8LbFg6eA9NfaQmaUYmqKYNZGgW&#10;BKcLpIAJIMELAdCSSwG5aiEWYJRIDmh11H08mvdDaQVYyQWLARgoQIrSAKTk3Q81OAEqvx/mdWxp&#10;/T2O/CCAZAnMIgaKszNAgGKrqIZBIIYyBycBCczBSWAOcDAkIGEWpgAJJ+HmAAngYMuW1+TR9IAN&#10;LnsJHzSk9+i1r293gr1I7T6P5nzSM0JvtqCBrwgqR1hSA11rgaf926xoFW/YnnZYNPIVqSaoF/pX&#10;CJaJgx2RbFcUqUh5A0GVOKAlQpE2dqB4nfAXQVchRWCgWPvlpFt2oiYLNXIVC0P1nbqzI9FrL8RT&#10;4NC9E4xADoiRjVDwmZB4c0zy4AGnU0kFBgRPsNe5KnDDGWdoylUq4IjEXfm1XPh4Py3F0gcOvTAd&#10;ROR93xcjXrIj79Ssj0o4wg9dLwoa1U4NyF9ZKtgZQtLQDG+R4o6Mnlv61gp6wxVEreEbHqmk/HGP&#10;9xmhv6/jF2kbN7LYF82wAAAAAElFTkSuQmCC&#10;"
+       id="image1"
+       style="filter:url(#filter7)" />
+  </g>
+</svg>

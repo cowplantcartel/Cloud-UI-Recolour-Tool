@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="S3_2F7D0004_00000000_8F24AD0891E0ABE5_ATLAS_WishesTooltip_01%%+IMAG.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Duochrome"
+       id="filter5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood1"
+         id="feFlood1" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood2"
+         id="feFlood2" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite2" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite3" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix3" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite4" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend4" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="37.15625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="32"
+       height="32"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC+klEQVR4nM2XS2gUSRjHf1XdPU8H&#10;QxzEBwmubHBYUDCC4AMvIggeRLyIIB72ouBh8SB4kVx2D8Iu3oLgZdmDC7KH9SDxcRBUEA+OF2Wi&#10;EnDiEydmNJPuST+qPGQDk3a6k26T1T/0oau++v6/qq6ujxLn/h7lW0p+U/fvHeAQcAOYAHTKZwq4&#10;DRyLMjG7tGWAC4ZkT84SI1lTXDUl04mm9Z8CTXbG0xvanj7hK3YAfwDPO2O6rcB5y+DHVUX5ezEj&#10;Hqc1BzAEM4WMGO0tyktZU/QCp8MxYYDdUnC4Jy+vpDWN0sq8uG5I9gBH4wBOZk1xTQj8pQYAyFvi&#10;KnCysy28BzZbBpGz7yv75QPbnCFDUgAYb5j/ruv19wFMtmT1+qP85ea0tKPG5yzxojWjf+lsC6/A&#10;SilxohIMrPU3zZkDlPKqb8qRNccV9VxGrzq43T4VNRZAClwgHwcQq4djmWrbFfW5956iGuwpqsGs&#10;SdmUFPxA2D1FVYjL8QVUkuDmtLT/uV8432qL2rwkUhcAilndv9AqhNXtHIhUZb3X/1Oft2uyZYy+&#10;a1LtLwf7LFOXDUnByOh+AMukvGwAe7e0h1ptUXv2xrr1ZNyqjVTlzcGNbmXDan9rKa/6AKYcOb5s&#10;AIHCXpHTlYG1HuXSrCGAHwh7smWkKquJABxX1FfkdGX28SvdYhqf5L0kORNtwsXM0nFlY9kAGlML&#10;f9+XE8k+RSKA8YZRXyhm7J25YMxXAJiNQBF51AYKO+4o/moAmN2IafqWDCBuI6b5FRMDPH1tzqsH&#10;c2q7ov70tVlNmi98DrwPFCUMJqIG1F5Z9dorayipEYCvKAIfOtvCK3DX9RlIk3wxant6ALgbBzDs&#10;Bnp/oObX7KVQoMk6nj4CDMcBjGrNxaajTi0lhNaYH211XGv+BEY6+7rVgrOBgg+2+s2S4o5pMGZI&#10;mmmMlaLkKX7wAr1Tay4DZ8IxIuZuuAb4GdgOrE8DALwHHgB/EboPzCmuGr4Ffk1pvGh913fD/0Wf&#10;AV6cGhdqEnQsAAAAAElFTkSuQmCC&#10;"
+       id="image1"
+       style="filter:url(#filter5)" />
+  </g>
+</svg>

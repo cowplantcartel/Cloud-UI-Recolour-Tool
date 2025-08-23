@@ -1,0 +1,1 @@
+By default Cloud UI comes with More Obvious Occults, this patch reverts back to the EA occult borders.

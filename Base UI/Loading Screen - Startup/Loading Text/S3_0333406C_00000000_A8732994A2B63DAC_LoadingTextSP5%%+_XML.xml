@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LoadingText count="10">
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text1"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text2"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text3"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text4"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text5"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text6"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text7"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text8"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text9"/>
+      <Text localizedName="Ui/Caption/BG_EP11LoadingText:Text10"/>
+</LoadingText>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="S3_2F7D0004_00000000_6D59AEB176C14973_cas_tattoos_i_pubic%%+IMAG.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Duochrome"
+       id="filter5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood1"
+         id="feFlood1" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood2"
+         id="feFlood2" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite2" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite3"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix3" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite4"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend4" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="27.351562"
+     inkscape:cx="21.351614"
+     inkscape:cy="21.333334"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="42.666668"
+       height="42.666668"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A&#10;/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9sFHRUUCgooGa4AAAM9SURBVFjD&#10;tZfNb0xhFMZ/750xt5222qajviIUIaESNhJh4StdWPAPSCRiZWcrsbAVXdD4A6xqY8PCxkJKFKnE&#10;QqiPoTQ0qlql0xm30zk2z8jNGG5vZ+Ykb+7Xe9/zvM95zrnnOjNjmXYGOAYkgbvANWAx9ipm9mfE&#10;eOewmU2aWUnjh5mdNDMX16+3DMAO2AR0Ak4jDezXeSzzlkG9B3RUOPOAjUBT3JB6ccMFlIBR4FPo&#10;0U9gGCg0VAPhuWZ2WbEvmNlNM8vE0VJ5bjIGUF+KTwGbgSbgLRAArcBBYAjImVnJOZdfyroujNg5&#10;9y/nO4CzwB45XgWsl/M5oA2YAT4DC0AWuOGcux0RzugQmFnCzK5YdSuZWTF0DMxsUc8emtmGeqTh&#10;GmCvzn9UYzF0TIiRIrAV6K5HFvwEcsB34ImuK52XANMYBiaBvMDUDKBVed8KTAEjwLTGlFj5puNb&#10;YAxoBtqllf/aUrKgU1QmtbNsiIX1AvZSbEwLhAf4QFc9AJSZygHvgW3AUdHt69k6AXgK3BL1vkp0&#10;/BBUZEaLKP0CPAYmBNzX9KLOU3L8XJWyCLRXFK9oBqpMGgcuioFRgT4BfFB2lGvBa+CdwnRFxWqk&#10;2vrhepOMcI52fDV0vUL0r5HQvJBGVkuMt5daYZPEtyOTk6zN5ejwfXzAggDSaTq6u+lSSb7XSABN&#10;58/TNTyM39ODAWSz2O7dJAYHKSxF+bUC6OvtJbVzJ4vnzjEDNPf3k/Q8MsC80rShDUkzQBAwJ9Fd&#10;N8Ocw+lDdKCRANYCX4KAUj5Py9gY3oMHjM7OYgsLOK33QeJsSAi2Ay3j47ihIRL377M9m+VUWxup&#10;Q4cwfYwAZusGwDlXmZ6pgQHmVXhO694lpWUK2PKfd/9K97gheKe+z9fXLiPRzWkzAfAsoq7UpIGU&#10;up8C8KqsCVGeV7fU20gR9inVivo3KBecF8Av9QUro1q8WgBk5KBVOy/bV62VrOyCokB4UQIMWYv+&#10;/TJ6zxSG8DeipDDUPQQrFP89EuBclR/RGfUEx8vFquY0DKnYA/YBu3Q9L9onQiFIC0BB+iia2Zt6&#10;MJAWrT2qcIF2/yg05w7wUYASwAX1D5H2G27OqK6n0rnVAAAAAElFTkSuQmCC&#10;"
+       id="image1"
+       style="stroke-width:1.33333;filter:url(#filter5)"
+       transform="scale(0.74999998)" />
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+All credit for this mod goes to Arro!
+The original mod can be accessed here: https://modthesims.info/d/686260/more-clothing-rows.html
+
+* Only use one of the numbered package files (e.g. MoreClothingRows4, MoreClothingRows5, MoreClothingRows6). The number corresponds to the number of visible rows.
+
+* IF YOU USE SMOOTH PATCH, please go to the original mod page (linked above) and follow the steps for the xdelta web patcher.
+
+* Place this patch in your Overrides folder. The original version of this mod is not required for the patch to work EXCEPT for the smooth patch update from the previous dot point.

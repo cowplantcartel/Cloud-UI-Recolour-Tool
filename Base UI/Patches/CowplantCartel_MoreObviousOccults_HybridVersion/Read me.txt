@@ -1,0 +1,3 @@
+By default Cloud UI comes with the standard version of More Obvious Occults, this patch changes it to the Hybrid version so that you can identify hybrid occult sims. Place in your Overrides folder.
+
+Original mod can be found here: https://modthesims.info/d/691525/more-obvious-occults.html

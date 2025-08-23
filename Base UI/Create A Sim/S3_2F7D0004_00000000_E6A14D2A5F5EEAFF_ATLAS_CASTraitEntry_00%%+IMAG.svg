@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="256"
+   height="128"
+   viewBox="0 0 256 128"
+   sodipodi:docname="S3_2F7D0004_00000000_E6A14D2A5F5EEAFF_ATLAS_CASTraitEntry_00%%+IMAG.svg"
+   inkscape:export-filename="S3_2F7D0004_00000000_E6A14D2A5F5EEAFF_ATLAS_CASTraitEntry_00%%+IMAG.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.992189"
+         id="rect2"
+         width="208.17824"
+         height="35.976006"
+         x="-1.4210855e-14"
+         y="31.808054"
+         ry="0" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Duochrome"
+       id="filter42"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix38" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood1"
+         id="feFlood38" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite38" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood2"
+         id="feFlood39" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite39" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite40" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix40" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite41" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend41" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite42" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.2234126"
+     inkscape:cx="114.9403"
+     inkscape:cy="64.372772"
+     inkscape:window-width="1751"
+     inkscape:window-height="1211"
+     inkscape:window-x="1427"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="256"
+       height="128"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAYAAADktbcKAAAC10lEQVR4nO3dsYoddRjG4XdkBWO9&#10;kGrBBOMF2Mu2wUYwYJHGO0mTK0klBNJYyJbi9rmATYjKVkpqDSicFGeSxSDrzp4zZ3J8nwem2znf&#10;v9nfDgP7nWG1Wq0CXNew9AGmGIZ/HveDhc4BvAcOlj4AFPg0yeF43djSZ/6Z5OV4Pb/uhwgAzOdG&#10;ks+T3EvyZZKjJB9v6bP/SHKe5IckT5I8zToKkwzeAcBGLnsHcJzkYZIvZj7DaZIHSX78rx/0DgB2&#10;406SrzP/L3/GGfeSfDb1RgGAedxMcneH8+6OMycRAJjHYZJbO5z3yThzEgGAeXw4XrtykGu81BcA&#10;KCYAUEwAoJgAwDy+3YeZAgDFBADm8WgfZgoAFBMAKCYAUEwAYB5/jdeu/D1ekwgAzONlkl93OO+X&#10;ceYkAgDz+D3JyQ7nnST5bepNAgDzOMt6U8/pDmadjrPOpt5oIxBs5rKNQG9Wgn2T9f/rH2W7OwHP&#10;s/7L/zhXXAn27kYgAYDNXGUt+J1cLAX9aEtzX+ViKeizq94kALBdvhcA2E8CAMUEAIoJABQTACgm&#10;AFBMAKDYwXff/7T0GWBv3f/qeOkjbMQTABQTACgmAFBMAKCYAECxt98mevvW0ZLngPfWi5/Plz7C&#10;bDwBQDEBgGICAMUEAIoJABQTACgmAFBMAKCYAEAxAYBiAgDFBACKCQAUEwAoJgBQTACgmABAMQGA&#10;YgIAxQQAir1dCvp/XnwI/DtPAFBMAKCYAEAxAYBiAgDFBACKCQAUEwAoNqxWq9XSh4B9NQzDsPQZ&#10;NuEJAIoJABQTACgmAFBMAKCYAEAxAYBiAgDFBACKCQAUEwAoJgBQTACgmABAMQGAYgIAxQQAigkA&#10;FBMAKCYAUEwAoJgAQDEBgGICAMUEAIoJABQTACgmAFBMAKCYAEAxAYBiAgDFBACKCQAUEwAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAACYwWtsaEx5W5e9NwAAAABJRU5ErkJggg==&#10;"
+       id="image1" />
+    <image
+       width="256"
+       height="128"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAYAAADktbcKAAAC10lEQVR4nO3dsYoddRjG4XdkBWO9&#10;kGrBBOMF2Mu2wUYwYJHGO0mTK0klBNJYyJbi9rmATYjKVkpqDSicFGeSxSDrzp4zZ3J8nwem2znf&#10;v9nfDgP7nWG1Wq0CXNew9AGmGIZ/HveDhc4BvAcOlj4AFPg0yeF43djSZ/6Z5OV4Pb/uhwgAzOdG&#10;ks+T3EvyZZKjJB9v6bP/SHKe5IckT5I8zToKkwzeAcBGLnsHcJzkYZIvZj7DaZIHSX78rx/0DgB2&#10;406SrzP/L3/GGfeSfDb1RgGAedxMcneH8+6OMycRAJjHYZJbO5z3yThzEgGAeXw4XrtykGu81BcA&#10;KCYAUEwAoJgAwDy+3YeZAgDFBADm8WgfZgoAFBMAKCYAUEwAYB5/jdeu/D1ekwgAzONlkl93OO+X&#10;ceYkAgDz+D3JyQ7nnST5bepNAgDzOMt6U8/pDmadjrPOpt5oIxBs5rKNQG9Wgn2T9f/rH2W7OwHP&#10;s/7L/zhXXAn27kYgAYDNXGUt+J1cLAX9aEtzX+ViKeizq94kALBdvhcA2E8CAMUEAIoJABQTACgm&#10;AFBMAKDYwXff/7T0GWBv3f/qeOkjbMQTABQTACgmAFBMAKCYAECxt98mevvW0ZLngPfWi5/Plz7C&#10;bDwBQDEBgGICAMUEAIoJABQTACgmAFBMAKCYAEAxAYBiAgDFBACKCQAUEwAoJgBQTACgmABAMQGA&#10;YgIAxQQAir1dCvp/XnwI/DtPAFBMAKCYAEAxAYBiAgDFBACKCQAUEwAoNqxWq9XSh4B9NQzDsPQZ&#10;NuEJAIoJABQTACgmAFBMAKCYAEAxAYBiAgDFBACKCQAUEwAoJgBQTACgmABAMQGAYgIAxQQAigkA&#10;FBMAKCYAUEwAoJgAQDEBgGICAMUEAIoJABQTACgmAFBMAKCYAEAxAYBiAgDFBACKCQAUEwAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAACYwWtsaEx5W5e9NwAAAABJRU5ErkJggg==&#10;"
+       id="image2"
+       clip-path="url(#clipPath2)"
+       style="filter:url(#filter42)" />
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+All credit goes to CmarNYC for this mod! This patch updates the xcas styles and colours to match Cloud UI. cmar_XCASfull1.69.43.zip was used to create this patch.
+
+The original mod is required for this patch to work. Place this patch in Overrides and the original mod in Packages.
+
+Original mod can be found here: https://modthesims.info/d/434270/xcas-core-mod-more-tattoo-locations-edit-naked-outfit-slider-hack-body-hair-more-update-5-23-16-steam-version-added.html

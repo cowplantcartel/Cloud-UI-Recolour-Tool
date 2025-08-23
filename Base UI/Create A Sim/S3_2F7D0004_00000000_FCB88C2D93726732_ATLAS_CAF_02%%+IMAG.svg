@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="4"
+   height="1024"
+   viewBox="0 0 4 1024"
+   sodipodi:docname="S3_2F7D0004_00000000_FCB88C2D93726732_ATLAS_CAF_02%%+IMAG.svg"
+   inkscape:export-filename="S3_2F7D0004_00000000_FCB88C2D93726732_ATLAS_CAF_02%%+IMAG.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Duochrome"
+       id="filter9"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix5" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood1"
+         id="feFlood5" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite5" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="flood2"
+         id="feFlood6" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite6" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite7" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix7" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite8" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend8" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite9" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1611328"
+     inkscape:cx="1.7224558"
+     inkscape:cy="580.89823"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="4"
+       height="1024"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAQACAYAAADGL/h7AAACGElEQVR4nO1aW27EIAyEao/QC/RG&#10;vf9l6Adqk0CIgx94NvVIK7URMcaMn7s5fX1/ph0+UoNXSilfrqAfvP7+KgOh24os2kWq6eBBaXfJ&#10;7QrZLiaq69xcaU+b08Ee9RXaHp0JuxUym7JPe3WWTeiOuGm/yu1eQAljfFr+NVzEIMlVnrrHpIwV&#10;Vj89fsXo+CY8ZegB60CPjg5uMsrxwYkMFxe7K+NeOrHX456MSeIq10H0Wehw4WRTOp0YRtwpjg30&#10;KK0ey3lqlJHRXGz3oMIyAQ9emarXYU0IvW0Fn8l6ql95tkmOMrJ6Uwh0ef/f81Sj95iW4Woxmtom&#10;2069ApwJKY9y4kd3t4NcqZy0dChV2qpvRXfCoNR2+7l+XsebfT8HAuy0tAZVOPciNXLXzTeko3mq&#10;kfedmmZ3Fmpsyz8tu3k3aVeUv4DQocOvUqV+tuzhP92QD+7M8kvHj07GM+pC4CqYUUquM/LpmFIa&#10;ta9Ip1F/sLJp9wpG9YlS9GpMi3EMhDEQQTGyYYEG2FkYVlvULp3QyckE8AzlvkeNvzvZ/VNXTJc9&#10;7xNgTbIYHcc2qx8e+HulboUyKUOmB7vEP6juwnXYEOyatJjbSmUoNyN0FkOxB8pvv0IGIUODUnQG&#10;OonrWvxY3u+vyeoo/GDJeI7vwyq28nDqE2cNb1g1Y6sA+xGWUSzs/FauWCAQCAQCgUAgEAgEAoEA&#10;Mn4Ar+psauVJ6k4AAAAASUVORK5CYII=&#10;"
+       id="image1"
+       style="filter:url(#filter9)" />
+  </g>
+</svg>

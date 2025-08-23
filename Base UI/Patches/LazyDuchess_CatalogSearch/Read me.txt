@@ -1,0 +1,3 @@
+All credit goes to Lazy Duchess for this mod! Original mod can be found here: https://www.patreon.com/posts/ts3-catalog-mod-82175020
+
+You will need the original mod installed for this patch to work! Place the original mod in your Packages folder and the patch in Overrides.

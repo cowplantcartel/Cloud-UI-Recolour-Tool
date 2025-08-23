@@ -1,0 +1,3 @@
+All credit goes to gamefreak130! Original mod can be found here: https://modthesims.info/d/660596/console-gt-pc-karma-powers.html
+
+You will need the original mod installed for this patch to work! Place the original mod in your Packages folder and the patch in Overrides.

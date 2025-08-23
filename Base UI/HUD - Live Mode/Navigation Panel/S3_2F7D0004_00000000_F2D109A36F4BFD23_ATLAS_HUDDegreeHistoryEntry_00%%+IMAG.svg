@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="128"
+   height="64"
+   viewBox="0 0 128 64"
+   sodipodi:docname="S3_2F7D0004_00000000_F2D109A36F4BFD23_ATLAS_HUDDegreeHistoryEntry_00%%+IMAG.svg"
+   inkscape:export-filename="S3_2F7D0004_00000000_F2D109A36F4BFD23_ATLAS_HUDDegreeHistoryEntry_00%%+IMAG.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter11"
+       x="-0.099683221"
+       y="-0.24651563"
+       width="1.1993664"
+       height="1.4930313">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.305882"
+         flood-color="rgb(0,0,0)"
+         id="feFlood10" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="3.000000"
+         id="feGaussianBlur10" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.000000"
+         id="feOffset10" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite10" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite11" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke-width:1.02388"
+         id="rect4"
+         width="31.172167"
+         height="22.988998"
+         x="96.827835"
+         y="-2.220446e-16" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5"
+       x="-0.031154274"
+       y="-0.19289271"
+       width="1.0623085"
+       height="1.3857854">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="1.000000"
+         flood-color="rgb(191,191,191)"
+         id="feFlood4" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="1.000000"
+         id="feGaussianBlur4" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.000000"
+         id="feOffset4" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite4" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.5683591"
+     inkscape:cx="78.939046"
+     inkscape:cy="30.753495"
+     inkscape:window-width="1718"
+     inkscape:window-height="1360"
+     inkscape:window-x="1713"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="128"
+       height="64"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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&#10;"
+       id="image1"
+       style="display:none" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke-width:0.718793"
+       id="rect2-9"
+       width="77.03598"
+       height="12.44215"
+       x="7.9155536"
+       y="29.194618"
+       ry="6.2210751"
+       inkscape:label="Coloured progress meter" />
+    <rect
+       style="display:inline;opacity:0.5;fill:#e6e6e6;fill-rule:evenodd;stroke-width:0.718793;filter:url(#filter5)"
+       id="rect3"
+       width="77.03598"
+       height="12.44215"
+       x="8.0677986"
+       y="1.1815335"
+       ry="6.2210751"
+       inkscape:label="Progress meter background" />
+    <image
+       width="128"
+       height="64"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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&#10;"
+       id="image2"
+       clip-path="url(#clipPath2)"
+       inkscape:label="Retained Image" />
+  </g>
+</svg>

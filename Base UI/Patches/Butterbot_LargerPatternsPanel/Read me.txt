@@ -1,0 +1,3 @@
+All credit for this mod goes to Butterbot. This mod increases the size of the patterns in Create A Style. Place this patch in your Overrides folder - the original version of this mod is not required for the patch to work.
+
+Original mod link: https://modthesims.info/d/691423/larger-patterns-panel.html

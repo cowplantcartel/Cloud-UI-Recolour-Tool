@@ -1,0 +1,3 @@
+This patch changes the colour of the pause border, map view border and recording border. Place in your Overrides folder.
+
+Original mod link (not required for this patch to work): https://modthesims.info/d/691375/pretty-pause-map-view-and-recording-border.html

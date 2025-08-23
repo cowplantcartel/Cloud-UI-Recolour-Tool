@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="S3_2F7D0004_00000000_2BE7F4A825FA524C_sign_libra_sm%%+IMAG.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Duochrome"
+       id="filter5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood1"
+         id="feFlood1" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood2"
+         id="feFlood2" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite2" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite3" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix3" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite4" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend4" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="37.15625"
+     inkscape:cx="15.986543"
+     inkscape:cy="16"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="32"
+       height="32"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAAEEfUpiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ&#10;bWFnZVJlYWR5ccllPAAAAixJREFUeNpi/P//PwMyYEJirweTIBVArAClwQIO/yEAxP4PEECM2Mx4&#10;j8RPAAkUIgl8YIDqL4DS/wECCMMMdIDsrgAU9zEwnEd2JzpOgLEJWgEQQCS5gWQFBoQU5OPzxXzk&#10;0L+PLoiMGf+jeoMRSsPFWJAEGbAoZAAIIILhQGwwCJChVwDZgA/QcPtPJD4P1YMSjOuh9H0cQYuc&#10;wBOQgxmW0JEV9RNKZUB8HmYAPoBsAV4FAkC8Hyp2HjkfYkkhMDCfqPROCAAEENXSwcAbQHFKrIfl&#10;YDTQj0Pze1hKRA7E+0CsQGzgYwsDkIkLoJIw3IjGB2FHFKOQEokBUqLClQ/2Q+kG9LzQgJ7GcWAH&#10;bGUWenmVgENzA5ZcyYDLyQFEGHCfUG5EzuJ4syuhnAorH7CBAJiCAiTBfjwB+B6q5j4sDAY+NwIE&#10;GMUuGHUANQtEBWgxY0CCfpDaBBLVn0cutdBDQABJwQEiDRQgUq0DtLRLJCYKGoD4AbQVZYhkALYC&#10;2wCjiITofQBlF0AL/ECsDsVRDs1HKmLnE2hmBOCRRzYLa32PzUD04rgATwmLDxsglf+wQvc8IQec&#10;x1E6r8fTWsGGBXA00gyQGnEYDpiPVKthw+dJcMB9PDVjAnLVAkqEoMTlD03NCwmkeHsgngjEF+Dt&#10;U9QcZABNmBOREiGuLsJFUKIEOeA8iXkfZLEiFgcoQFsmpIAHyKn1/X/CoICI4O8nwpz3sIQ9WhcM&#10;uAMATuM1Crwl7VUAAAAASUVORK5CYII=&#10;"
+       id="image1"
+       style="filter:url(#filter5)" />
+  </g>
+</svg>

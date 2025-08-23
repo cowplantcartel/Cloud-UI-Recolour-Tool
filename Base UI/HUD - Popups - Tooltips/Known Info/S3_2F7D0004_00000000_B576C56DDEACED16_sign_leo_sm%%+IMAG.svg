@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="S3_2F7D0004_00000000_B576C56DDEACED16_sign_leo_sm%%+IMAG.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Duochrome"
+       id="filter5"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood1"
+         id="feFlood1" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite1" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood2"
+         id="feFlood2" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite2" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite3" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix3" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite4" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend4" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="37.15625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-width="1147"
+     inkscape:window-height="1211"
+     inkscape:window-x="1090"
+     inkscape:window-y="195"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="32"
+       height="32"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAAEEfUpiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ&#10;bWFnZVJlYWR5ccllPAAAAmdJREFUeNpi/P//PwMyYGJABf9ZYAyYCEyAEUoLAAQQIz4zfmIzgxFZ&#10;xQEgvg8QQAwgM3BgCRDNgqRDAIjfo7kTbul/JElBJHlGdHczoPMBAgjDH7isQAdshEyACUqyYBG8&#10;gCT2HObn8/+xAwaYAgUgvg9lG8AkQRjmhvlAvBGIP0CDGGalIEFvAgQQQQWEABOJ6h9CnQbCyRCH&#10;4k4NyLgCiB9iCaUCbF74T64XQMntPJr8Bix6GoFYEZqgGEHOew91jgAQJ0DxfqR4g2EQCECiGZAj&#10;Gob7oZoZoIr2oxlggMQHyQlQHI0AAUT3dECVhES2F5iB+A96uUCsC8zQNCNcQ0QyVgHi1bgyPDYX&#10;9CNlGBC+DcQqOFyWgG7b/P+kgfsMWJIrMWA/tqT8Hs0F+3FodkC2FMYAZaAGqIL3aAod0AxQQDfg&#10;P7RYZUAqLf9j8ZoDkuEMuHLjfSQN86FZHN3A9VB+P7ZofICUyhSAOACpEIEl2UAofjg4ciNAgFHs&#10;AnoXB6QC6YF0QBEQPwHiOiCWAOJwIF4ETRA0iQI5IN4OxFoE1BUD8SMgPkuonUYunkxEWXIGvXlD&#10;DDAAYgdoBY4MLkCbRFJQWpRI8xYAcSIhB4As2w+1nO65wAHa+KW25Y3QhiSo1HLEFY8FaCUzNcB7&#10;9JIcW2GMXKsZQAtnbKAAqflEyJHz8SVaBqSGN8zi9VjqIQO0Cg6XgfCqFlcNio6ZwHmRgWE9NF4E&#10;oTUFLA1cgNYsF6DysBpHgEA8w5qvhlC9DlB7FDC7NLh9sx/JN8g1NzJYj6U+/Q9Vh63li9E0GPaV&#10;0eB3AADhnhRpr4VPDQAAAABJRU5ErkJggg==&#10;"
+       id="image1"
+       style="filter:url(#filter5)" />
+  </g>
+</svg>
