@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="37"
+   height="28"
+   viewBox="0 0 37 28"
+   sodipodi:docname="S3_2F7D0004_00000000_049FC17A5AD09F1F_num_entry_field%%+IMAG.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter8"
+       x="-0.054775797"
+       y="-0.054641546"
+       width="1.1255279"
+       height="1.1252202">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.305882"
+         flood-color="rgb(0,0,0)"
+         id="feFlood7" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="1.000000"
+         id="feGaussianBlur7" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.700000"
+         dy="0.700000"
+         id="feOffset7" />
+      <feComposite
+         result="comp1"
+         operator="out"
+         in="flood"
+         in2="offset"
+         id="feComposite7" />
+      <feComposite
+         result="comp2"
+         operator="atop"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5"
+       x="-0.064864865"
+       y="-0.085714286"
+       width="1.1486486"
+       height="1.1964286">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="1.000000"
+         flood-color="rgb(151,151,151)"
+         id="feFlood4" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="1.000000"
+         id="feGaussianBlur4" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.700000"
+         dy="0.700000"
+         id="feOffset4" />
+      <feComposite
+         result="comp1"
+         operator="out"
+         in="flood"
+         in2="offset"
+         id="feComposite4" />
+      <feComposite
+         result="comp2"
+         operator="atop"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="14.7356"
+     inkscape:cx="39.59798"
+     inkscape:cy="28.197019"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <image
+       width="37"
+       height="28"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAcCAYAAADm63ZmAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ&#10;bWFnZVJlYWR5ccllPAAAAdFJREFUeNrsl7tqAlEURY93xsf4fqJRBBFhsDMErFJKqmhjmS4QyA9Y&#10;BGwCFqn8AeuQH8gHJCAphHxAIG0kooWP4GN0NGcPJG2qmUkxG2aYe29x1uxzirvlw+FAtVqNvF6v&#10;EgwGW9FotBEKhSo+n0+SZZlcLheZJdTe7/cfmqa9LpfL7uX17TP2XTio1+ulRCLxmMvl1Hw+T6lU&#10;ihiM3G63qVCQruu0Wq1oOp3ScDi8OTu/upNxEIvF7ovFoloul6lQKBADkqIoJEmSFU7RdrulxWJB&#10;mUym8/L00JebzeYpA1VLpRKpqkrsFnEbf10y2ymAwa14PE6BQEDirY7s9/uryWSSstkspdNpikQi&#10;hFmySvhp1ENXMDY8WxXBA+3B/ITDYeJv49AOAc7j8WCWIwKUWKBdZs/QX0J9cAhAYCGEsBXoxy08&#10;gv6Z/iUU5EA5UA6UA+VAOVAOlM3C9VjwS8MdGRd4bNgNxPoSu91uwLnLSBSAsxMMxiADil6v1+d4&#10;M5jP57Rerw0wu1zabDY6s7SNmZpMJhccBN9GoxHNZjMcWtZO1OBuIcXQeDxubw6ZvpGlGOaddcyX&#10;9hYDNTiMnlgVRvn55JYN2KGuRkdGbP8WYADVys1gK3w9oAAAAABJRU5ErkJggg==&#10;"
+       id="image1"
+       style="display:none" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke-width:1.0253;filter:url(#filter5)"
+       id="rect4"
+       width="37"
+       height="28"
+       x="0"
+       y="0"
+       ry="4.4326086"
+       inkscape:label="Table background" />
+  </g>
+</svg>
