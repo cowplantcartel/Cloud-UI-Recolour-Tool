@@ -3,5 +3,5 @@ If you'd like to upload your custom UI to share with others, please credit those
 - cowplantcartel for building Cloud UI and the Cloud UI Recolour Tool
 - p182 (https://github.com/p182) for building the Python script to turn the recoloured output files into a .package file, and for building refpack_pipe.exe which compresses the file (https://github.com/p182/refpack-pipe)
 - David_mtv, coregirl, momomomomoi, sidereus23 and sims3loveforlife for translations used in the loading screen text
-- Arro, Butterbot, Cmar, LazyDuchess and gamefreak130 for creating the original mods used to create the Patches in this tool
+- Arro, Butterbot, Cmar, xFairyExterminatorx, Lazy Duchess and gamefreak130 for creating the original mods used to create the Patches in this tool
 - emelie.ikj for the loading screen text base files

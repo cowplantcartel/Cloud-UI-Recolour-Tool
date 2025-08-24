@@ -1,0 +1,3 @@
+All credit goes to xFairyExterminatorx for this mod! Original mod can be found here: https://modthesims.info/d/692638/s4-to-s3-likes-icon-overhaul.html
+
+You will need the original mod installed for this patch to work! Place the original mod in your Packages folder and the patch in Overrides.

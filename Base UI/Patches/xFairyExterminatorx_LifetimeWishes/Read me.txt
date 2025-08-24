@@ -1,0 +1,3 @@
+All credit goes to xFairyExterminatorx for this mod! Original mod can be found here: https://modthesims.info/d/691754/sims-3-lifetime-wishes-overhaul-modern-aspirations.html
+
+You will need the original mod installed for this patch to work! Place the original mod in your Packages folder and the patch in Overrides.
