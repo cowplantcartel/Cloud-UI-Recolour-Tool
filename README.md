@@ -96,7 +96,8 @@ I will be writing up some info/tutorials when I get a chance, but if you’re a 
 - David_mtv, coregirl, momomomomoi, sidereus23 and sims3loveforlife for translations used in the loading screen text
 - Arro, Butterbot, Cmar, xFairyExterminatorx, LazyDuchess and gamefreak130 for creating the original mods used to create the Patches in this tool
 - emelie.ikj for the loading screen text base files
-- Everyone who used the previous iterations of Cloud UI and sent feedback. This really just started with me wanting to build myself a cute pink UI, but you all inspired me to keep it going 💕
+- Thank you everyone who tested this tool (hopefully I didn't miss anyone!!): Bioniczombie, Bicaubica73, Bellakenobi, Aktasakplays, Astycat13, Simplyharryyy, Chaos, Desiree-uk, MihaiA10, Mspoodle1, simphoraa, Kalque, nishasims, Ohrudi, Alanna-goth, Winterbrumous, veigasims, toadifylackoffantasy, Sdmsims
+- Special thanks to everyone who used the previous iterations of Cloud UI and sent feedback. This really just started with me wanting to build myself a cute pink UI, but you all inspired me to keep it going 💕
 
 ## Final Notes
 
