@@ -862,6 +862,70 @@
          in2="fbSourceGraphic"
          operator="in" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Duochrome"
+       id="filter44"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="luminanceToAlpha"
+         result="colormatrix1"
+         id="feColorMatrix9" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood1"
+         id="feFlood10" />
+      <feComposite
+         in2="colormatrix1"
+         operator="out"
+         result="composite1"
+         id="feComposite18" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(255,170,204)"
+         result="flood2"
+         id="feFlood21" />
+      <feComposite
+         in2="colormatrix1"
+         result="composite2"
+         operator="in"
+         id="feComposite28" />
+      <feComposite
+         in="composite2"
+         in2="composite1"
+         k2="1"
+         k3="1"
+         operator="arithmetic"
+         result="composite3"
+         id="feComposite30" />
+      <feColorMatrix
+         in="composite3"
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         result="colormatrix2"
+         id="feColorMatrix32" />
+      <feComposite
+         in="colormatrix2"
+         in2="composite3"
+         operator="arithmetic"
+         k2="0"
+         result="composite4"
+         id="feComposite38" />
+      <feBlend
+         in="composite4"
+         in2="composite3"
+         mode="normal"
+         result="blend"
+         id="feBlend38" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         id="feComposite44" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="namedview1"
@@ -873,8 +937,8 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="3.2841795"
-     inkscape:cx="63.942912"
-     inkscape:cy="147.37319"
+     inkscape:cx="113.11806"
+     inkscape:cy="147.98217"
      inkscape:window-width="1718"
      inkscape:window-height="1360"
      inkscape:window-x="-7"
@@ -890,7 +954,7 @@
      inkscape:label="Original Image"
      style="display:none" />
   <circle
-     style="opacity:1;fill:#ffffff;stroke:#ffffff;stroke-width:2.85853;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     style="opacity:1;fill:#fcfcfc;stroke:#fcfcfc;stroke-width:2.85853;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
      id="path1"
      cx="203.35745"
      cy="190.71739"
@@ -912,7 +976,7 @@
      id="image2"
      inkscape:label="Recoloured - Zoom (656565ff)"
      clip-path="url(#clipPath4)"
-     style="filter:url(#filter23)" />
+     style="filter:url(#filter44)" />
   <image
      width="256"
      height="256"
