@@ -4,6 +4,7 @@
 *.sh
 *.ini
 *.spec
+*.pdf
 
 # Ignore specific folders
 __pycache__/
